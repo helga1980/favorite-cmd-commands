@@ -1,0 +1,6 @@
+$ mkdir This command  creates a new directory
+ls shows the list of items in a directry
+
+$ ls shows the list of items in a directry
+
+$ mkdir -p creates nested folders
